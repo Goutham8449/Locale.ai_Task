@@ -1,4 +1,3 @@
-# Locale.ai_Task
 # **Backend Task**
 
 XRides, delivers about a 200 rides per minute or 288,000 rides per day. Now, they want to send this data to your system via an API. Your task is to create this API and save the data into PostgreSQL.
